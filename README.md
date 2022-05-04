@@ -5,6 +5,10 @@
 project collab, forums, news sites and more. I have been developing the platform for a few years, have made most of the code, and could do with a developer or two who might 
 be interested in investing some time towards a future company (within a year).
 
+the platform project updates are at: 
+Media Post Site (MPS)
+on discord. 
+
 Thus far the platform is being made with PHP 7.4 tho should work on PHP 8, and later will be developed with C#, C++.
 
 I have made most of the platform in parts. It just needs a developer or two to add some of the basic functionalities (most of which would be copy and paste from code 
