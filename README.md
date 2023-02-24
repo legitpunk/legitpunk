@@ -7,11 +7,13 @@
 project collab, forums, news sites and more. I have been developing the platform for a few years, have made most of the code, and could do with a developer or two who might 
 be interested in investing some time towards a future company (within a year).
 
-the platform project updates are at: 
+The platform project updates are at: 
 Media Post Site (MPS)
 on discord. 
 
-a lot of the code that's featured on this account my seem obscure though most of the functions and code is ported from my platform or tools that were made to help create parts of the platform just as the hash generator or directory viewer. 
+The platform is currently 183Mb of code (not including many other various programs incorporated with it), roughly 10x that of laravel.
+
+A lot of the code that's featured on this account my seem obscure though most of the functions and code is ported from my platform or tools that were made to help create parts of the platform just as the hash generator or directory viewer. 
 
 Thank you for viewing my github and please to meet you :)
 
